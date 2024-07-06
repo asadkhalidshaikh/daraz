@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(244, 244, 244);
+}
+.search{
+    width: 700px;
+    border-radius: 10px;
+}
+.color{
+    background-color: rgb(255, 85, 0);
+    padding-top: 40px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: rgb(255, 210, 187);
+    color: red;
+    border: none;
+}
+.clr{
+    color: white;
+    font-weight: bold;
+}
+.slider{
+    margin-top: 15px;
+}
+.carousel-inner{
+    border-radius: 10px;
+}
+.list-group{
+    margin-top:15px ;
+    font-size: small;
+    border-radius: 10px;
+}
+.img{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    margin-top: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 18px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 228, 215) ;
+    border-radius: 10px;
+}
+.block{
+    height: 147.5px;
+    width: 147.5px;
+    background-color:white ;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+}
+.b-img{
+    height: 80px;
+    width: 80px;
+    margin-top: 16px;
+    text-align: center;
+    
+}
+span{
+    height: 36px;
+    width: 123.5px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3px;
+    margin-bottom: 2px;
+}
